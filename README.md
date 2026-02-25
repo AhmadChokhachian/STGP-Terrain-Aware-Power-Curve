@@ -1,1 +1,1 @@
-# STGP-Terrain-Aware-Power-Curve-
+# STGP-Terrain-Aware-Power-Curve
